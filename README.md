@@ -2,6 +2,8 @@
 <p align="center">
   <img src="https://media.giphy.com/media/MM0Jrc8BHKx3y/source.gif"/>
 </p>
-<img
-  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=alissonfelipe1234&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"
-/>
+
+### Connect with me:
+
+<a href='https://alissonfelipe1234.github.io/' target='_blank'><img align="left" alt="Site alissonfelipe1234" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>
+<a href='https://www.linkedin.com/in/alissonfelipe/' target='_blank'><img align="left" alt="alissonfelipe1234 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
