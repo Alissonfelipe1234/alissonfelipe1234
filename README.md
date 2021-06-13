@@ -2,15 +2,11 @@
 <p align="center">
   <img src="https://media.giphy.com/media/MM0Jrc8BHKx3y/source.gif"/>
 </p>
-
+<a href='https://profile.codersrank.io/user/alissonfelipe1234' target='_blank'>
 <img
   src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=alissonfelipe1234&width=820&bg=cccccc&padding=60"
 />
-
-
-<img
-  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=activity&username=alissonfelipe1234&labels=true"
-/>
+</a>
 
 ### Connect with me:
 
