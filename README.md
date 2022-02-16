@@ -1,12 +1,15 @@
 ### Hi there 👋
+
+![Alissonfelipe1234's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alissonfelipe1234&count_private=true&show_icons=true&hide=contribs,issues&theme=algolia)
+
 <p align="center">
-  <img src="https://media.giphy.com/media/MM0Jrc8BHKx3y/source.gif"/>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alissonfelipe1234&theme=algolia)
+ <img src="https://media.giphy.com/media/D7z8JfNANqahW/giphy.gif"/>
 </p>
-<a href='https://profile.codersrank.io/user/alissonfelipe1234' target='_blank'>
-<img
-  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=alissonfelipe1234&width=820&bg=cccccc&padding=60"
-/>
-</a>
+
+
+
 
 ### Connect with me:
 
