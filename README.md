@@ -1,16 +1,7 @@
 # I am a Hacker
 <p align="center">
-
-
-  
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Transparent_bar.gif"/>  ![Alissonfelipe1234's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alissonfelipe1234&count_private=true&show_icons=true&hide=contribs,issues&theme=algolia)
-  
-</p>
-
-<p align="center">
-  
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/48/BLANK_ICON.png"/> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alissonfelipe1234&theme=algolia)
-
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alissonfelipe1234&count_private=true&show_icons=true&hide=contribs,issues&theme=algolia"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alissonfelipe1234&theme=algolia&layout=compact"/>
 </p>
 
 
